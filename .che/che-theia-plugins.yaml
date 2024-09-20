@@ -1,0 +1,4 @@
+- id: ms-python/python/latest
+  override:
+    preferences:
+      python.globalModuleInstallation: true
